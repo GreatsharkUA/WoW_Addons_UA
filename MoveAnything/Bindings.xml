@@ -1,0 +1,32 @@
+<Bindings>
+	<Binding name="Перемкнути вікно MA" header="MOVEANYTHING">
+		MovAny:ToggleOptionsMenu()
+	</Binding>
+	<Binding name="Перемістити фрейм - безпечно">
+		MovAny:SafeMoveFrameAtCursor()
+	</Binding>
+    <Binding name="Редагувати фрейм - безпечно">
+		MovAny:SafeMAFEFrameAtCursor()
+	</Binding>
+	<Binding name="Сховати фрейм - безпечно">
+		MovAny:SafeHideFrameAtCursor()
+	</Binding>
+	<Binding name="Скинути фрейм - безпечно">
+		MovAny:SafeResetFrameAtCursor()
+	</Binding>
+	<Binding name="Перемістити фрейм - Точний">
+		MovAny:MoveFrameAtCursor()
+	</Binding>
+	<Binding name="Приховати фрейм - Точний">
+		MovAny:HideFrameAtCursor()
+	</Binding>
+	<Binding name="Скинути фрейм - Точний">
+		MovAny:ResetFrameAtCursor()
+	</Binding>
+	<Binding name="Оновити позиції">
+		MovAny:SyncAllFrames()
+	</Binding>
+	<Binding name="Показати інформацію про фрейм">
+		MovAny:DebugFrameAtCursor()
+	</Binding>
+</Bindings>
