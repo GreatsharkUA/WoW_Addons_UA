@@ -1,2 +1,2 @@
-# WoW_Addons_UA-
+# WoW_Addons_UA
 Ukrainian localization of WoW addons 
