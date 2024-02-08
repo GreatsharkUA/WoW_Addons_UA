@@ -9,4 +9,6 @@ Ukrainian localization of WoW addons:
 
 MoveAnything
 
-EPGP 
+EPGP
+
+BASpammer 
