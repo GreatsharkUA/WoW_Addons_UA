@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: BASpammer
+## Author: Bigalex
+## Version: 1.03-UA
+## Notes: Надсилає повідомлення до вибраного каналу з вибраним інтервалом.
+## SavedVariablesPerCharacter: BASpammerDB
+
+BASpammer.xml
+BASpammer.lua
