@@ -1,0 +1,18 @@
+## Interface: 30300
+## Title: EPGP LootMaster |cff0055FFML|r
+## Author: Greashark - Icecrown - Warmane
+## Version: 0.5.0
+## Notes: Повна система розподілу здобичі для EPGP — Master Looter Stuff — гравці можуть безпечно вимкнути це.
+## X-Category: Guild
+## RequiredDeps: epgp_lootmaster
+## OptionalDeps: EPGP, CT_RaidTracker,CT RaidTracker 1.5 (modded by Eris)
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## X-Curse-Packaged-Version: 0.5.0
+## X-Curse-Project-Name: EPGPLootmaster
+## X-Curse-Project-ID: epgp_lootmaster
+## X-Curse-Repository-ID: wow/epgp_lootmaster/mainline
+lootmaster_ml.lua
+lootmaster_ml_ui.lua
+lootmaster_options_buttonwidget.lua
+lootmaster_options.lua
