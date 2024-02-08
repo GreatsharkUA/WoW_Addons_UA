@@ -1,0 +1,30 @@
+## Interface: 30300
+## Title: MoveAnything |cffff7d0aU|r|cff0055FFA|r
+## Version: 18.0.8-UA
+## Author: Author: Classic: Skrag,Jason - TBC: Vincent - WotLK: Wagthaa,Greatshark
+## Notes: MoveAnything 3.3.5a-UA by Greatshark
+## Notes-ruRU: MoveAnything 3.3.5a-UA від Greatshark дозволяє змінювати масштаб і місце розташування рамок.
+## SavedVariables: MADB
+
+Localizations\Localization.en.lua
+Localizations\Localization.ua.lua
+
+MoveAnything.lua
+Profile.lua
+API.lua
+PortDialog.lua
+VirtualMovers.lua
+
+FrameEditor.UA.lua
+FrameList.UA.lua
+
+Modules\Alpha.lua
+Modules\Backdrop.lua
+Modules\Layers.lua
+Modules\Misc.lua
+Modules\Position.lua
+Modules\Scale.lua
+Modules\Visibility.lua
+
+MoveAnything.xml
+BlizzardOptions.UA.xml
