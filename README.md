@@ -7,8 +7,10 @@
 # WoW_Addons_UA
 Ukrainian localization of WoW addons:
 
-MoveAnything
+MoveAnything 18.0.8-UA
 
-EPGP
+EPGP 5.5.19  EPGP LootMaster 0.5.0
 
-BASpammer 
+BASpammer 1.03-UA
+
+Postal 3.3.0-UA
