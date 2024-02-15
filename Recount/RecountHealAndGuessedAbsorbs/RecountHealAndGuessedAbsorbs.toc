@@ -1,0 +1,18 @@
+## Interface: 30300
+## Title: RecountHealAndGuessedAbsorbs
+## Author: Extrem
+## Notes: |@Version: 1@|A module for recount that merge heal and guessed absorb in a tab
+## Notes-ruRU: |@Version: 1@| Модуль поглинання + зцілення для Recount
+## RequiredDeps: Recount
+## OptionalDeps: Ace3,Recount,RecountGuessedAbsorbs
+## X-Curse-Packaged-Version: 1.4-ua
+## X-Curse-Project-Name: RecountHealAndGuessedAbsorbs
+## X-Curse-Project-ID: recounthealandabsorbs
+## X-Curse-Repository-ID: wow/recounthealandabsorbs/mainline
+embeds.xml
+locales\Core-enUS.lua
+locales\Core-frFR.lua
+locales\Core-zhTW.lua
+locales\Core-esES.lua
+locales\Core-uaUA.lua
+Core.lua
