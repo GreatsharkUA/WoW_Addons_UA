@@ -7,11 +7,13 @@
 # WoW_Addons_UA
 Ukrainian localization of WoW addons:
 
+Bagnon 2.13.3-ua
+
+BASpammer 1.03-UA
+
 MoveAnything 18.0.8-UA
 
 EPGP 5.5.19  EPGP LootMaster 0.5.0
-
-BASpammer 1.03-UA
 
 Postal 3.3.0-UA
 
