@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Bagnon Forever
+## Notes: Stores inventory information about your characters
+## Notes-ruRU: Зберігає інформацію про ваших персонажів
+## Author: Tuller
+## Version: 1.1.2
+## SavedVariables: BagnonForeverDB
+## LoadOnDemand: 0
+db.lua
+ui.xml

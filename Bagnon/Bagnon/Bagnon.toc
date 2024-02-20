@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: Bagnon |cffff7d0aU|r|cff0055FFA|r
+## Author: Tuller
+## Notes: Single window displays for your inventory, bank, and keys
+## Notes-ruRU: Єдине вікно для вашого інвентарю, банку та ключів
+## SavedVariables: BagnonGlobalSettings
+## SavedVariablesPerCharacter: BagnonFrameSettings
+## Version: 2.13.3-ua
+## OptionalDeps: Ace3, Bagnon_Forever, Bagnon_Armory, LibItemSearch
+
+embeds.xml
+localization.xml
+main.lua
+utility.xml
+components.xml

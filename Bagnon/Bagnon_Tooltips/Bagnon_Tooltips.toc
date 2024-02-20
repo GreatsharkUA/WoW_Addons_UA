@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Bagnon Tooltips |cffff7d0aU|r|cff0055FFA|r
+## Author: Tuller
+## Notes: Tooltips for telling who has what
+## Notes-ruRU: Підказки, у якого персонажа що є
+## RequiredDeps: Bagnon_Forever
+localization.xml
+tooltips.lua
