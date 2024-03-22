@@ -7,6 +7,8 @@
 # WoW_Addons_UA
 Ukrainian localization of WoW addons:
 
+Auctionator 2.6.3-ua
+
 Bagnon 2.13.3-ua
 
 BASpammer 1.03-UA
